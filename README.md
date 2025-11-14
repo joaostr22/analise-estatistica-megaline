@@ -8,7 +8,7 @@ Realizei uma análise estatística completa dos planos Surf e Ultimate, unindo m
 - Matplotlib
 - Seaborn
 - NumPy
-- SciPy
+- SciPy (testes de hipótese)
 
 ## 📦 Como instalar
 ```bash
