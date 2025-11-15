@@ -14,4 +14,3 @@ Realizei uma análise estatística completa dos planos Surf e Ultimate, unindo m
 ```bash
 git clone https://github.com/joaostr22/analise-estatistica-megaline.git
 cd analise-estatistica-megaline
-pip install -r requirements.txt
