@@ -1,5 +1,11 @@
 # Análise Estatística dos Planos da Megaline
 
+## 🎯 Objetivo
+
+Analisar o comportamento de usuários dos planos Surf e Ultimate e testar hipóteses estatísticas para determinar qual plano gera mais receita mensal.
+
+## 🧠 Como fiz o projeto
+
 Realizei uma análise estatística completa dos planos Surf e Ultimate, unindo múltiplas tabelas (chamadas, mensagens, internet e usuários). Efetuei pré-processamento, cálculo de métricas mensais, criação de histogramas e estudo do comportamento dos clientes. Finalizei com testes de hipótese para determinar se a receita média dos planos diferia significativamente, gerando insights relevantes para decisões comerciais.
 
 ## 🚀 Tecnologias
